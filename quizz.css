@@ -1,0 +1,137 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.start-button-container{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+}
+
+.start-button-container input{
+    width: 250px;
+    height: 40px;
+    padding: 10px;
+}
+
+#startQuizButton:hover{
+    background-color: #e8e8e8;
+}
+
+#startQuizTitle{
+    text-align: center;
+    color: white;
+}
+
+.enclose{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 60px;
+    background-color: #d2272a;
+}
+
+.logo{
+    width: 50%;
+    margin-bottom: 100px;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+}
+
+.container h1{
+    text-align: center;
+    color: white;
+}
+
+.container p{
+    text-align: center;
+    color: white;
+}
+
+
+.container h2{
+    color: white;
+    width: 100%;
+    text-align: center;
+}
+
+.responses{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    justify-content: space-around;
+}
+
+.responses button{
+    font-weight: 600;
+}
+
+.responses button:hover{
+    background-color: #e8e8e8;
+}
+
+#skip{
+    width: 100px;
+    height: 40px;
+    background-color: #ffffff;
+    color: #ad0e0e;
+    border: none;
+    cursor: pointer;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    font-weight: 600;
+}
+
+#skip:hover{
+    background-color: #e8e8e8;
+}
+
+button{
+    width: 150px;
+    height: 50px;
+    background-color: #ffffff;
+    color: #ad0e0e;
+    border: none;
+    cursor: pointer;
+}
+
+.timer-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: white;
+}
+
+.timer-container h3{
+    font-size: 25px;
+}
+
+.step{
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    margin-top: 20px;
+    font-weight: 600;
+}
+
+.end-quiz-buttons{
+    display: flex;
+    gap: 20px;
+    margin-top: 40px;
+}

@@ -1,0 +1,246 @@
+{
+  "quiz": {
+    "questions": [
+      {
+        "question": "Quelle technologie est au cœur de la blockchain ?",
+        "options": ["Cryptographie", "Intelligence artificielle", "Réseau sans fil", "Moteurs de recherche"],
+        "answer": "Cryptographie"
+      },
+      {
+        "question": "Qu'est-ce que l'acronyme VPN signifie ?",
+        "options": ["Virtual Private Network", "Visual Processing Unit", "Virtual Product Network", "Voice Processing Node"],
+        "answer": "Virtual Private Network"
+      },
+      {
+        "question": "Quel langage de programmation est principalement utilisé pour le développement web côté serveur ?",
+        "options": ["HTML", "CSS", "JavaScript", "Python"],
+        "answer": "JavaScript"
+      },
+      {
+        "question": "Quelle est la signification de l'acronyme URL ?",
+        "options": ["Uniform Resource Locator", "Universal Remote Lighting", "User Registration Link", "User Reporting Language"],
+        "answer": "Uniform Resource Locator"
+      },
+      {
+        "question": "Quel protocole est utilisé pour envoyer des e-mails ?",
+        "options": ["SMTP", "HTTP", "FTP", "TCP"],
+        "answer": "SMTP"
+      },
+      {
+        "question": "Quelle est la principale caractéristique de la technologie 5G ?",
+        "options": ["Haute vitesse", "Sécurité renforcée", "Faible latence", "Compatibilité IPv6"],
+        "answer": "Haute vitesse"
+      },
+      {
+        "question": "Quel système d'exploitation est utilisé par la majorité des smartphones ?",
+        "options": ["iOS", "Android", "Windows", "Linux"],
+        "answer": "Android"
+      },
+      {
+        "question": "Qu'est-ce que le terme 'cloud computing' signifie ?",
+        "options": ["L'informatique en nuage", "La programmation parallèle", "La réalité virtuelle", "Le développement mobile"],
+        "answer": "L'informatique en nuage"
+      },
+      {
+        "question": "Quelle est la différence entre HTTP et HTTPS ?",
+        "options": ["La sécurité des données", "Le protocole de transfert", "La taille des fichiers", "Le langage de programmation"],
+        "answer": "La sécurité des données"
+      },
+      {
+        "question": "Quelle entreprise est derrière le système d'exploitation Windows ?",
+        "options": ["Apple", "Microsoft", "Google", "Linux Foundation"],
+        "answer": "Microsoft"
+      },
+      {
+        "question": "Quelle technologie est utilisée pour stocker et gérer de grandes bases de données distribuées ?",
+        "options": ["NoSQL", "SQL", "XML", "HTML"],
+        "answer": "NoSQL"
+      },
+      {
+        "question": "Quel est le langage de balisage utilisé pour structurer le contenu web ?",
+        "options": ["Java", "C++", "PHP", "HTML"],
+        "answer": "HTML"
+      },
+      {
+        "question": "Qu'est-ce que l'Internet des objets (IoT) ?",
+        "options": ["Une technologie de réalité virtuelle", "Un réseau social", "Une technologie de streaming vidéo", "Une interconnexion d'objets physiques via Internet"],
+        "answer": "Une interconnexion d'objets physiques via Internet"
+      },
+      {
+        "question": "Quel navigateur web est développé par Google ?",
+        "options": ["Firefox", "Safari", "Edge", "Chrome"],
+        "answer": "Chrome"
+      },
+      {
+        "question": "Qu'est-ce que le terme 'Big Data' signifie ?",
+        "options": ["Un grand ensemble de données", "Un outil de retouche d'images", "Un langage de programmation", "Un algorithme de chiffrement"],
+        "answer": "Un grand ensemble de données"
+      },
+      {
+        "question": "Quelle technologie permet de créer des réseaux sans fil locaux ?",
+        "options": ["Bluetooth", "Ethernet", "Fibre optique", "DSL"],
+        "answer": "Bluetooth"
+      },
+      {
+        "question": "Quelle est la principale caractéristique de la réalité virtuelle ?",
+        "options": ["Interaction avec le monde réel", "Visualisation 3D immersive", "Communication vocale", "Partage de fichiers"],
+        "answer": "Visualisation 3D immersive"
+      },
+      {
+        "question": "Quelle entreprise a développé le langage de programmation Python ?",
+        "options": ["Microsoft", "Google", "Apple", "Python Software Foundation"],
+        "answer": "Python Software Foundation"
+      },
+      {
+        "question": "Quel est le principal protocole de communication sur Internet ?",
+        "options": ["HTTP", "SMTP", "FTP", "UDP"],
+        "answer": "HTTP"
+      },
+      {
+        "question": "Quel langage de programmation est principalement utilisé pour le développement d'applications mobiles sur iOS ?",
+        "options": ["Java", "C#", "Swift", "Python"],
+        "answer": "Swift"
+      },
+      {
+        "question": "Quelle technologie permet le stockage et le partage de fichiers en ligne ?",
+        "options": ["Cloud computing", "Réseau local", "Bluetooth", "SMS"],
+        "answer": "Cloud computing"
+      },
+      {
+        "question": "Qu'est-ce que le terme 'intelligence artificielle' (IA) signifie ?",
+        "options": ["Une intelligence humaine", "Une série de calculs mathématiques", "Une simulation de la pensée humaine par des machines", "Une forme de télépathie"],
+        "answer": "Une simulation de la pensée humaine par des machines"
+      },
+      {
+        "question": "Quel est le système d'exploitation open source basé sur le noyau Linux ?",
+        "options": ["Windows", "Android", "Ubuntu", "iOS"],
+        "answer": "Ubuntu"
+      },
+      {
+        "question": "Quelle technologie permet de stocker des données de manière permanente et immuable ?",
+        "options": ["Blockchain", "Cloud computing", "Base de données SQL", "Stockage local"],
+        "answer": "Blockchain"
+      },
+      {
+        "question": "Quel est le langage de programmation utilisé pour créer des applications Android ?",
+        "options": ["Java", "C++", "Swift", "Python"],
+        "answer": "Java"
+      },
+      {
+        "question": "Quel est le terme utilisé pour décrire la pratique de la modification du code source d'un logiciel open source ?",
+        "options": ["Forking", "Branching", "Hacking", "Compiling"],
+        "answer": "Forking"
+      },
+      {
+        "question": "Quelle technologie permet aux navigateurs web d'exécuter du code côté client ?",
+        "options": ["JavaScript", "PHP", "Python", "Ruby"],
+        "answer": "JavaScript"
+      },
+      {
+        "question": "Quelle est la principale caractéristique de la technologie RFID ?",
+        "options": ["Localisation par satellite", "Communication sans fil à courte distance", "Transfert de données par infrarouge", "Communication vocale"],
+        "answer": "Communication sans fil à courte distance"
+      },
+      {
+        "question": "Quelle est la principale caractéristique de la technologie NFC ?",
+        "options": ["Communication sans fil à courte distance", "Réseau de téléphonie fixe", "Transfert de données par satellite", "Communication vocale"],
+        "answer": "Communication sans fil à courte distance"
+      },
+      {
+        "question": "Quelle est la principale caractéristique de la technologie Wi-Fi ?",
+        "options": ["Communication sans fil à courte distance", "Communication par câble coaxial", "Transfert de données par satellite", "Communication vocale"],
+        "answer": "Communication sans fil à courte distance"
+      },
+      {
+        "question": "Quelle est la principale caractéristique de la technologie Bluetooth ?",
+        "options": ["Communication sans fil à courte distance", "Réseau de téléphonie fixe", "Transfert de données par satellite", "Communication vocale"],
+        "answer": "Communication sans fil à courte distance"
+      },
+      {
+        "question": "Quelle technologie permet la transmission de données via des signaux lumineux ?",
+        "options": ["Li-Fi", "Wi-Fi", "Bluetooth", "NFC"],
+        "answer": "Li-Fi"
+      },
+      {
+        "question": "Qu'est-ce que le terme 'machine learning' signifie ?",
+        "options": ["Apprentissage automatique par les humains", "Apprentissage automatique par les machines", "Apprentissage manuel par les machines", "Apprentissage manuel par les humains"],
+        "answer": "Apprentissage automatique par les machines"
+      },
+      {
+        "question": "Quelle technologie est utilisée pour la reconnaissance vocale et la commande vocale ?",
+        "options": ["Speech Recognition Technology", "Virtual Reality", "Artificial Intelligence", "Augmented Reality"],
+        "answer": "Speech Recognition Technology"
+      },
+      {
+        "question": "Quelle est la principale caractéristique de la technologie 4K ?",
+        "options": ["Haute résolution d'image", "Sécurité renforcée", "Faible latence", "Compatibilité IPv6"],
+        "answer": "Haute résolution d'image"
+      },
+      {
+        "question": "Quelle est la principale caractéristique de la technologie VPN ?",
+        "options": ["Sécurité des données", "Haute vitesse", "Faible latence", "Compatibilité IPv6"],
+        "answer": "Sécurité des données"
+      },
+      {
+        "question": "Quel est le terme utilisé pour la programmation de tâches récurrentes sur un système informatique ?",
+        "options": ["Automation", "Virtualization", "Synchronization", "Optimization"],
+        "answer": "Automation"
+      },
+      {
+        "question": "Quelle technologie permet de stocker des données sur des serveurs distants accessibles via Internet ?",
+        "options": ["Cloud computing", "Blockchain", "Réseau local", "Stockage local"],
+        "answer": "Cloud computing"
+      },
+      {
+        "question": "Quelle technologie est utilisée pour la transmission de signaux télévisés numériques ?",
+        "options": ["DVB-T", "AM", "FM", "HDTV"],
+        "answer": "DVB-T"
+      },
+      {
+        "question": "Quelle est la principale caractéristique de la technologie 3D printing (impression 3D) ?",
+        "options": ["Fabrication additive", "Communication sans fil", "Transfert de données optique", "Réalité augmentée"],
+        "answer": "Fabrication additive"
+      },
+      {
+        "question": "Quel est le terme utilisé pour décrire la transformation de données brutes en informations utiles ?",
+        "options": ["Data Mining", "Data Storage", "Data Encryption", "Data Compression"],
+        "answer": "Data Mining"
+      },
+      {
+        "question": "Quelle est la principale caractéristique de la technologie de reconnaissance faciale ?",
+        "options": ["Identification biométrique", "Communication sans fil", "Transfert de données optique", "Réalité augmentée"],
+        "answer": "Identification biométrique"
+      },
+      {
+        "question": "Quelle technologie est utilisée pour stocker des données de manière structurée et relationnelle ?",
+        "options": ["Base de données SQL", "NoSQL", "Cloud computing", "Stockage local"],
+        "answer": "Base de données SQL"
+      },
+      {
+        "question": "Quel est le langage de programmation populaire pour le développement d'applications mobiles sur Android ?",
+        "options": ["Java", "C#", "Swift", "Python"],
+        "answer": "Java"
+      },
+      {
+        "question": "Quelle est la principale caractéristique de la technologie QR code ?",
+        "options": ["Stockage de données", "Communication sans fil", "Transfert de données optique", "Réalité virtuelle"],
+        "answer": "Stockage de données"
+      },
+      {
+        "question": "Quel est le système d'exploitation développé par Apple pour ses produits mobiles ?",
+        "options": ["iOS", "Android", "Windows", "Linux"],
+        "answer": "iOS"
+      },
+      {
+        "question": "Quelle technologie permet la communication vocale sur Internet ?",
+        "options": ["VoIP", "SMS", "MMS", "HTTP"],
+        "answer": "VoIP"
+      },
+      {
+        "question": "Qu'est-ce que le terme 'cybersécurité' signifie ?",
+        "options": ["Sécurité des données en ligne", "Sécurité routière", "Sécurité alimentaire", "Sécurité nationale"],
+        "answer": "Sécurité des données en ligne"
+      }
+    ]
+  }
+}
